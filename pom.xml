@@ -85,8 +85,8 @@
 	    <version>6.4.4</version>
 	    <configuration>
 	         <baselineOnMigrate>true</baselineOnMigrate>
-	         <url>jdbc:mysql://3.236.15.204:3306</url>
-	         <user>inguser4</user>
+	         <url>jdbc:mysql://52.14.56.149:3306</url>
+	         <user>flywayuser1</user>
 		  <password>H@ckath0n</password>
 	      <schemas>
 	          <schema>flydb</schema>
